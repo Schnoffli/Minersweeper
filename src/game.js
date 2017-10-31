@@ -31,3 +31,5 @@ class Game{
     }
   }
 }
+
+let game = new Game(3,3,3);
